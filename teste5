@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CHV Noticias"tvg-id="5"tvg-logo="https://cdn.m3u.cl/logo/1153_CHV_Noticias.png"tvg-chno=""group-title="NACIONALES",CHV
-
 #EXTINF:-1 tvg-name="CHV Noticias"tvg-id="5"tvg-logo="https://cdn.m3u.cl/logo/1153_CHV_Noticias.png"tvg-chno=""group-title="NACIONALES",CHV-2
 https://stitcher.pluto.tv/stitch/hls/channel/62aa5740a47b6c000769f407livestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95b
 #EXTINF:-1 tvg-name="Meganoticias"tvg-id="449"tvg-logo="https://cdn.m3u.cl/logo/449_Meganoticias.png"tvg-chno=""group-title="NACIONALES",Meganoticias ✪ | CL
