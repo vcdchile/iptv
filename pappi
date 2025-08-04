@@ -179,6 +179,15 @@ http://185.189.225.150:85/BabyTV/index.m3u8
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8
 #EXTINF:-1 group-title="DOCUMENTAL" tvg-name="National Geographic Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" ,National Geographic Latin America
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+
+
+#EXTINF:-1 group-title="DEPORTE" tvg-name="TNT SPORT CHILE" tvg-logo="https://cdn-1.webcatalog.io/catalog/tnt-sports/tnt-sports-icon-filled-256.webp?v=1747274932746" ,TNT SPORTS CHILE
+https://14c51.crackstreamslivehd.com/tntsportschile/tracks-v1a1/mono.m3u8?token=fa4d9629685722d3d614af7f2291fd59ad2c7f39-68-1754326395-1754272395
+#EXTINF:-1 group-title="DEPORTE" tvg-name="TNT SPORT CHILE3 " tvg-logo="https://cdn-1.webcatalog.io/catalog/tnt-sports/tnt-sports-icon-filled-256.webp?v=1747274932746" ,TNT SPORTS CHILE 3
+https://d6.merichunidya.com:1686/hls/chiletv.m3u8?md5=RgWZAF1bT7GWLTZdxFUZzA&expires=1754286987
+
+
+
 #EXTINF:-1 group-title="DEPORTE" tvg-name="MMA-TV.com" tvg-logo="https://i.imgur.com/QhdxNsB.png" ,MMA-TV.com
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTE" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" ,FutGO | CL
