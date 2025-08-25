@@ -99,24 +99,7 @@ https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 https://radioxxx.ddns.net/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="VIDEOS" tvg-name="TeleZeta Tropical" tvg-logo="https://cdn.m3u.cl/logo/1651_TeleZeta_Tropical.png" ,TeleZeta Tropical ✪ | CL
 https://stream.telezeta.cl/live/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="VIDEOS" tvg-name="Vevo Latino" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20241022T051144SQUARE.png" ,Vevo Latino
-https://jmp2.uk/sam-ESBC2100002LV.m3u8
-#EXTINF:-1 group-title="VIDEOS" tvg-name="Vevo Retro" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20250513T005434SQUARE.png" ,Vevo Retro
-https://jmp2.uk/sam-ESBD230000289.m3u8
-#EXTINF:-1 group-title="VIDEOS" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100001IU_20241022T051146SQUARE.png" ,Vevo Pop
-https://jmp2.uk/sam-ESBC2100001IU.m3u8
-#EXTINF:-1 group-title="VIDEOS" tvg-name="Trace Latina" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20241022T051129SQUARE.png" ,Trace Latina
-https://jmp2.uk/sam-ESBA3300042Y6.m3u8
-#EXTINF:-1 group-title="VIDEOS" tvg-name="Trace Urban" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300043M0_20241022T051131SQUARE.png" ,Trace Urban
-https://jmp2.uk/sam-ESBA3300043M0.m3u8
-#EXTINF:-1 group-title="VIDEOS" tvg-name="Sol Música" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png" ,Sol Música
-https://jmp2.uk/sam-ESBD2300004Y7.m3u8
-#EXTINF:-1 group-title="VIDEOS" tvg-name="Cool Summer Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2500001F9_20241023T143110SQUARE.png" ,Cool Summer Channel
-https://jmp2.uk/sam-ES2500001F9.m3u8
-#EXTINF:-1 group-title="VIDEOS" tvg-name="CLIPS don't lie" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES32000027M_20250610T010503SQUARE.png" ,CLIPS don't lie
-https://jmp2.uk/sam-ES32000027M.m3u8
-#EXTINF:-1 group-title="VIDEOS" tvg-name="K-POP by CJ ENM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20241105T025339SQUARE.png" ,K-POP by CJ ENM
-https://jmp2.uk/sam-ES3900001QG.m3u8
+
 #EXTINF:-1 group-title="RADIOS" tvg-name="RTL (solo Chile)" tvg-logo="//us0-cdn.onlineradiobox.com/img/logo/2/3432.v7.png" ,RTL (solo Chile)
 http://radio.mediadev.cl:8090/rtl_curico
 #EXTINF:-1 group-title="RADIOS" tvg-id="417" tvg-name="Radio Favorita" tvg-logo="https://www.m3u.cl/logo/417_Radio_Favorita.png" ,Radio Favorita | CL
