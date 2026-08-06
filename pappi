@@ -170,6 +170,423 @@ https://unlimited6-cl.dps.live/tvrcurico/tvrcurico.smil/tvrcurico/livestream1/ch
 https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="PELICULAS" tvg-name="AMC SPAIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" ,AMC SPAIN
 http://vegafibratv.com:8085/AMC/index.m3u8
+
+#EXTINF:0 group-title="Entretenimiento",Cartoon Network HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0oz
+#EXTINF:0 group-title="Peliculas",Cinecanal
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pp
+#EXTINF:0 group-title="Colombia",City TV
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0si
+#EXTINF:0 group-title="Entretenimiento",Comedy Central HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mu
+#EXTINF:0 group-title="Infantiles",DHE HD
+#EXTGRP:Infantiles
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qv
+#EXTINF:0 group-title="Peliculas",De Pelicula
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qb
+#EXTINF:0 group-title="Infantiles",Discovery Kids HD
+#EXTGRP:Infantiles
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0p0
+#EXTINF:0 group-title="Documentales",Discovery Science
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pb
+#EXTINF:0 group-title="Documentales",Discovery Turbo
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0p8
+#EXTINF:0 group-title="Documentales",Discovery World HD
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0n8
+#EXTINF:0 group-title="Entretenimiento",Disney Jr.
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0p7
+#EXTINF:-1 group-title="-",Disney Channel
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0d1/index.m3u8
+#EXTINF:-1 group-title="-",Disney HD
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0aq/index.m3u8
+#EXTINF:-1 group-title="-",Disney Jr
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0c3/index.m3u8
+#EXTINF:-1 group-title="-",Distrito Comedia
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0ba/index.m3u8
+#EXTINF:-1 group-title="-",E Entertainment
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0d5/index.m3u8
+#EXTINF:-1 group-title="-",ESPN (N)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0d7/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 (N1)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0f5/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 (N2)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0d6/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 (N3)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0c6/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 HD (N2)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a09t/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 (N)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0cl/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 HD (N2)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a094/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 4HD (N)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0as/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 5 (N)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0dn/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 5HD (N2)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a09q/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 6 (N)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0de/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 6HD (N2)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a095/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 7 (N)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0dd/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 7HD (N2)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0ak/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD (N)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0ar/index.m3u8
+#EXTINF:-1 group-title="-",ESPN Premium HD (N1)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a09d/index.m3u8
+#EXTINF:-1 group-title="-",ESPN Premium HD (N)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0fz/index.m3u8
+#EXTINF:0 group-title="Deportes",ESPN
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0s7
+#EXTINF:0 group-title="Deportes",ESPN 2 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qj
+#EXTINF:0 group-title="Deportes",ESPN 3 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0s6
+#EXTINF:0 group-title="Deportes",ESPN 4 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0s9
+#EXTINF:0 group-title="Deportes",ESPN 5 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0s5
+#EXTINF:0 group-title="Deportes",ESPN 6 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0s3
+#EXTINF:0 group-title="Deportes",ESPN 7 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0s8
+#EXTINF:0 group-title="Chile",ETC
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mn
+#EXTINF:0 group-title="Religion",EWTN
+#EXTGRP:Religion
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0ph
+#EXTINF:0 group-title="General",Ecuavisa
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0ov
+#EXTINF:0 group-title="General",Ecuavisa
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sd
+#EXTINF:0 group-title="General",El Gourmet HD
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mv
+#EXTINF:0 group-title="Religion",Enlace
+#EXTGRP:Religion
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pj
+#EXTINF:0 group-title="Deportes",Espn Premium
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0r2
+#EXTINF:0 group-title="Peliculas",FX HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0q5
+#EXTINF:0 group-title="General",Food Network
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qt
+#EXTINF:0 group-title="Noticias",France 24
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sm
+#EXTINF:0 group-title="Deportes",GOL TV
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0t0
+#EXTINF:0 group-title="General",GamavisiÃ³n
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0ox
+#EXTINF:0 group-title="Peliculas",HBO
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qd
+#EXTINF:0 group-title="Peliculas",HBO Xtreme HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qy
+#EXTINF:0 group-title="General",HEI HD
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mx
+#EXTINF:0 group-title="Documentales",HGTV
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pf
+#EXTINF:0 group-title="General",HOLA TV HD
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pw
+#EXTINF:0 group-title="Documentales",History Channel
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0st
+#EXTINF:0 group-title="Documentales",Home & Health HD
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0p2
+#EXTINF:0 group-title="Documentales",Home and Health
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sn
+#EXTINF:0 group-title="General",ID
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sl
+#EXTINF:0 group-title="Deportes",L1 MAX
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0ql
+#EXTINF:0 group-title="Musica",LA KALLE
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0l3
+#EXTINF:0 group-title="Chile",La Red
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qq
+#EXTINF:0 group-title="General",Las Estrellas HD
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qu
+#EXTINF:0 group-title="Entretenimiento",Lifetime
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pi
+#EXTINF:0 group-title="Chile",MEGA HD
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qn
+#EXTINF:0 group-title="Entretenimiento",MTV HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0nc
+#EXTINF:0 group-title="Chile",Mega
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0r1
+#EXTINF:0 group-title="Documentales",Nat Geo HD
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pt
+#EXTINF:0 group-title="Entretenimiento",Nick Jr.
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0p9
+#EXTINF:0 group-title="Entretenimiento",Nickelodeon HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qm
+#EXTINF:0 group-title="EspaÃ±a",PARAVISION
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sf
+#EXTINF:0 group-title="Latinoamerica",Panamericana TV
+#EXTGRP:Latinoamerica
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0so
+#EXTINF:0 group-title="Peliculas",Pasiones HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qh
+#EXTINF:0 group-title="General",Playboy HD
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mm
+#EXTINF:0 group-title="EspaÃ±a",RAI Italia
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mp
+#EXTINF:0 group-title="Colombia",RCN HD
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0l4
+#EXTINF:0 group-title="Colombia",RCN Novelas
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sk
+#EXTINF:0 group-title="General",REC TV
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qc
+#EXTINF:0 group-title="Colombia",SEÃAL COLOMBIA
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0l7
+#EXTINF:0 group-title="Religion",Sin Limites
+#EXTGRP:Religion
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sr
+#EXTINF:0 group-title="Peliculas",Sony HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0py
+#EXTINF:0 group-title="Peliculas",Sony Movies
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0p5
+#EXTINF:0 group-title="Peliculas",Space HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0q2
+#EXTINF:0 group-title="Deportes",Sun Channel HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qz
+#EXTINF:0 group-title="Colombia",TELECARIBE
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0lb
+#EXTINF:0 group-title="Documentales",TLC
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pa
+#EXTINF:0 group-title="Documentales",TLC
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0t3
+#EXTINF:0 group-title="Peliculas",TNT Novelas HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0na
+#EXTINF:0 group-title="Deportes",TNT SPORTS
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mo
+#EXTINF:0 group-title="Deportes",TNT Sports Premium SD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0q9
+#EXTINF:0 group-title="Colombia",TRO
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sh
+#EXTINF:0 group-title="Chile",TV+
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qo
+#EXTINF:0 group-title="EspaÃ±a",TVE
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pl
+#EXTINF:0 group-title="Latinoamerica",Teleamazonas
+#EXTGRP:Latinoamerica
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0ow
+#EXTINF:0 group-title="Latinoamerica",Telefuturo
+#EXTGRP:Latinoamerica
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sv
+#EXTINF:0 group-title="General",TelefÃ©
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pg
+#EXTINF:0 group-title="Colombia",Televicentro
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0oy
+#EXTINF:0 group-title="Peliculas",Tlnovelas
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0t6
+#EXTINF:0 group-title="Entretenimiento",Tooncast
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pe
+#EXTINF:0 group-title="EspaÃ±a",Trece
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sq
+#EXTINF:0 group-title="Deportes",TyC
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0t1
+#EXTINF:0 group-title="Peliculas",UNIVERSAL CHANNEL HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mw
+#EXTINF:0 group-title="Chile",ViaX
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0t4
+#EXTINF:0 group-title="Peliculas",Warner
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sz
+#EXTINF:0 group-title="Peliculas",Warner TV HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pz
+#EXTINF:0 group-title="Deportes",Win Sports+ HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0n1
+#EXTINF:0 group-title="Latinoamerica",Zona Latina
+#EXTGRP:Latinoamerica
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0su
+
+
 #EXTINF:-1 group-title="INFANTIL" tvg-name="BABY TV  HD" tvg-logo="https://i.imgur.com/4BDJ5FT.png" ,BABY TV  HD
 http://185.189.225.150:85/BabyTV/index.m3u8
 #EXTINF:-1 group-title="INFANTIL" tvg-name="Baby First HD" tvg-logo="https://i.imgur.com/WxLHBwu.png" ,Baby First HD
