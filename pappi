@@ -1,40 +1,50 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="452" tvg-name="TVN" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png" ,TVN ✪ | CL
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1 tvg-id="452" tvg-name="TVN1" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png" ,TVN 1 ✪ | CL
+https://iptv2.intersurtv.cl/TVN/index.m3u8
 #EXTINF:-1 tvg-id="452" tvg-name="TVN 2" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png" ,TVN 2 ✪ | CL
-https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
+http://45.162.193.35/TVN/index.m3u8
 #EXTINF:-1 tvg-id="1437" tvg-name="TVN3" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" ,TVN3 ✪ | CL
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
+http://138.121.15.230:9002/TVN/index.m3u8
 #EXTINF:-1 tvg-id="448" tvg-name="TVN 24 Horas" tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png" ,TVN 24 Horas ✪ | CL
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="NACIONALES" tvg-name="NTV" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" ,NTV ✪ | CL
 https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="NACIONALES" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" ,Mega ✪ | CL
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="NACIONALES" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" ,Mega SD | CL
+https://iptv.bitred.cl/mega/index.m3u8
+#EXTINF:-1 group-title="NACIONALES" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" ,Mega HD | CL
+http://15.204.246.24:8080/MEGAHD/index.m3u8
+#EXTINF:-1 group-title="NACIONALES" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" ,Mega 2 HD | CL
+http://15.204.246.24:8080/Mega2HD/index.m3u8
+#EXTINF:-1 group-title="NACIONALES" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" ,Mega SD | CL
+https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 group-title="NACIONALES" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" ,Mega HD | CL
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-name="Meganoticias" tvg-logo="https://cdn.m3u.cl/logo/449_Meganoticias.png" ,Meganoticias ✪ | CL
 https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="NACIONALES" tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png" ,CHV ✪ | CL
-https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-id="5" tvg-name="CHV Noticias" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV_Noticias.png" ,CHV-2
-https://stitcher.pluto.tv/stitch/hls/channel/62aa5740a47b6c000769f407livestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95b
+http://15.204.246.24:8080/CHVHD/index.m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-id="1569" tvg-name="CHV Deportes" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV_Deportes.png" ,CHV Deportes ✪ | CL
 https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="NACIONALES" tvg-id="457" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png" ,Canal 13 ✪ | CL
 https://m3u.cl/channel/c13.php?PlaylistM3UCL
+#EXTINF:-1 group-title="NACIONALES" tvg-id="457" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png" ,Canal 13 HD | CL
+http://15.204.246.24:8080/Canal13HD/index.m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-id="1054" tvg-name="T13" tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png" ,T13 ✪ | CL
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="NACIONALES" tvg-id="1198" tvg-name="T13 Radio" tvg-logo="https://cdn.m3u.cl/logo/1198_T13_Radio.png" ,T13 Radio ✪ | CL
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NACIONALES" tvg-id="5" tvg-name="CHV Noticias" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV_Noticias.png" ,CHV-2
-https://stitcher.pluto.tv/stitch/hls/channel/62aa5740a47b6c000769f407livestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95b
 #EXTINF:-1 group-title="NACIONALES" tvg-id="1054" tvg-name="T13" tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png" ,T13 N2 ✪ | CL
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="NACIONALES" tvg-id="457" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png" ,Canal 13 N1 ✪ | CL
 https://m3u.cl/channel/c13.php?PlaylistM3UCL
 #EXTINF:-1 group-title="NACIONALES" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" ,TV+ ✪ | CL
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NACIONALES" tvg-id="790" tvg-name="La Red" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.jpg" ,La Red ✪ | CL
-https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="NACIONALES" tvg-name="La Granja TV" tvg-logo="https://cdn.m3u.cl/logo/1001_La_Granja_TV.png" ,La Granja TV | CL
 https://oracle.streaminghd.cl/8126/8126/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="NACIONALES" tvg-name="G Vision" tvg-logo="https://cdn.m3u.cl/logo/69_G_Vision.png" ,G Vision | CL
@@ -43,6 +53,8 @@ https://videostream.chileservidores.com:8081/tome/index.m3u8?PlaylistM3UCL
 https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="NACIONALES" tvg-name="TVMas2" tvg-logo="https://cdn.m3u.cl/logo/1243_TVMas2.png" ,TVMas2 | CL
 https://marine2.miplay.cl/tateti/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="NACIONALES" tvg-name="MAULEVISION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnH9WBDtiA_2bEeNfFuc_mH9QyFD32tJu2BNNm34n6RA&s" ,MAULEVISION | CL
+https://v2.tustreaming.cl/maulevisiontv/index.m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-name="13 Cultura" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png" ,13 Cultura | CL
 https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="NACIONALES" tvg-name="13 Cocina" tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png" ,13 Cocina | CL
@@ -81,6 +93,8 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist1080p.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-name="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" ,CGTN Español (2)
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/espanol-livews.cgtn.com_LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd-1754196045552.ts
+#EXTINF:-1 group-title="VIDEOS" tvg-id="31" tvg-name="RETROMUSICA" tvg-logo="https://play-lh.googleusercontent.com/fSVDUWdsTrqSdwC8NIXmDmxCkuZbvsrChC6zosvbWvrjptNY15_9jcVPSIgEvDLr0i9cHMw9dx0Rlkz_q90gDw=w240-h480-rw" ,RETROMUSICA TV ✪ | CL
+https://vdochile.com:3864/stream/play.m3u8
 #EXTINF:-1 group-title="VIDEOS" tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://cdn.m3u.cl/logo/31_Portal_FoxMix.png" ,Portal FoxMix ✪ | CL
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="VIDEOS" tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" ,VClassicTV ✪ | CL
