@@ -113,6 +113,8 @@ https://zeus.miradio.pro/listen/popradio/stream
 https://sonicstream-puntual.grupozgh.cl/8196/stream 
 #EXTINF:-1 tvg-name="RADIO CORAZON"tvg-id=""tvg-logo=""tvg-chno=""group-title="RADIOS",RADIO CORAZON
 https://playerservices.streamtheworld.com/api/livestream-redirect/CORAZONAAC.aac
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ACTIVA(solo Chile)" tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/4/3124.v2.png" group-title="MUSICA",RADIO ACTIVA (solo Chile)
+http://playerservices.streamtheworld.com/api/livestream-redirect/ACTIVAAAC_SC
 #EXTINF:-1 tvg-name="RADIO MANIA BRASIL"tvg-id=""tvg-logo="http://www.radiomania.com.br/wp-content/themes/radiomania/imagens/logo.png"tvg-chno=""group-title="RADIOS",RADIO MANIA BRASIL 2
 https://s03.maxcast.com.br:8188/live
 #EXTINF:-1 tvg-name="Radio Agricultura"tvg-id="423"tvg-logo="https://cdn.m3u.cl/logo/423_Radio_Agricultura.png"tvg-chno=""group-title="RADIOS",Radio Agricultura | CL
@@ -263,6 +265,39 @@ http://181.78.79.131:8000/play/a0sz
 http://181.78.79.131:8000/play/a0pz
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="Latinoamerica",Zona Latina
 http://181.78.79.131:8000/play/a0su
+EXTINF:-1 tvg-id="AdrenalinaPuraTV.us@SD"tvg-logo="https://i.imgur.com/Pvid2iH.png"group-title="Movies":http-referrer="":http-user-agent="",Adrenalina Pura TV (720p)
+https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png"group-title="Movies":http-referrer="":http-user-agent="",AMC Latin America (1080p)
+http://45.162.193.35/AMC/index.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@CentralAmerica"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"group-title="Movies":http-referrer="":http-user-agent="",AXN Latin America (1080p)
+http://138.121.15.230:9002/AXN/index.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@Mexico"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"group-title="Movies":http-referrer="":http-user-agent="",AXN Latin America Mexico
+http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="CineFamiliar.us@SD"tvg-logo="https://i.imgur.com/ZgP2hE3.png"group-title="Movies":http-referrer="":http-user-agent="",Cine Familiar (1080p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CineMexicano.us@SD"tvg-logo="https://i.imgur.com/BhHKphL.png"group-title="Movies":http-referrer="":http-user-agent="",Cine Mexicano (1080p)
+http://177.234.249.178:8888/AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="CinePremiere.us@SD"tvg-logo="https://i.imgur.com/PdhWTO6.png"group-title="Movies":http-referrer="":http-user-agent="",Cine Premiere
+https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
+#EXTINF:-1 tvg-id="CinePremium.us@SD"tvg-logo="https://i.imgur.com/tC3jGd4.png"group-title="Movies":http-referrer="":http-user-agent="",Cine Premium (1080p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CineTerror.us@US"tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png"group-title="Movies":http-referrer="":http-user-agent="",Cine terror
+https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png"group-title="Entertainment":http-referrer="":http-user-agent="",FX Latin America (1080p)
+http://45.162.193.35/FX/index.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us@South"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png"group-title="Entertainment":http-referrer="":http-user-agent="",FX Latin America South (720p)
+http://72.1.184.5:8089/play/a05i/index.m3u8
+#EXTINF:-1 tvg-id="Historia.es@HD"tvg-logo="https://i.imgur.com/VUy8xIG.png"group-title="Entertainment":http-referrer="":http-user-agent="",Historia HD (1080p)
+https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8
+#EXTINF:-1 tvg-id="Historia.es@SD"tvg-logo="https://i.imgur.com/VUy8xIG.png"group-title="Entertainment":http-referrer="":http-user-agent="",Historia (1080p)
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png"group-title="Documentary":http-referrer="":http-user-agent="",History 2 Latin America (1080p)
+http://138.121.15.230:9002/HISTORY-2/index.m3u8
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"group-title="Documentary":http-referrer="":http-user-agent="",History Latin America (1080p)
+http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="MaximaTV.ve@SD"tvg-logo="https://i.imgur.com/HMZRVL5.jpeg"group-title="Entertainment":http-referrer="":http-user-agent="",Maxima TV
+https://maximatv.net/hls/stream.m3u8
+
 #EXTINF:-1 tvg-name="MMA-TV.com"tvg-id=""tvg-logo="https://i.imgur.com/QhdxNsB.png"tvg-chno=""group-title="Deporte",MMA-TV.com
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="BellatorMMA.us"tvg-logo="https://i.imgur.com/VBKoLHk.png"tvg-chno=""group-title="Deporte",Pluto TV Bellator MMA (720p)
